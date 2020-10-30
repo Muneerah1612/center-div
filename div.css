@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: #fff;
+    font-size: 1em;
+    margin:auto;
+    font-family: 'Pacifico', cursive;
+}
+header {
+    padding-left: 1em;
+    margin-left:1.6em;
+    
+}
+.center {
+    width: 60%;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius:5em;
+    border: 2px solid #fff;
+    margin:auto;
+    background-color:#fff;
+    height: 25vh;
+}
+.in-div{
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+    position: absolute;
+    width:70%;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 3em;
+    height:15vh;
+    font-size:1.5em;
+    
+}
